@@ -1,0 +1,9 @@
+{
+  "name": "DLMS Sam ProV1",
+  "short_name": "SPV1",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080d17",
+  "theme_color": "#080d17",
+  "description": "Audio analyzer SPV1 dengan input mikrofon dan RTA."
+}
